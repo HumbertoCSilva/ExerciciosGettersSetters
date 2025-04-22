@@ -1,2 +1,3 @@
-# AreaTriangulo
-Programa em java com dois objetos com e sem parametros para calcular a area de um triangulo. Programa feito para estudo de POO / Acessores / Tratamento de exceções
+# Exercícios Getters e setters
+4 exercícios com o objetivo de fixar o uso de getters e setters com tratamento de exceções
+Linguagem Java
