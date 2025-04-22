@@ -1,5 +1,5 @@
 
-package com.example;
+package com.example.ExerciciosGettersSetters;
 
 public class Vendedor {
      private float vendas;

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.ExerciciosGettersSetters;
 
 public class AppPessoa {
     public static void main(String[] args) {
